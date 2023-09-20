@@ -1,2 +1,2 @@
 # hydra-docs
-hydra-docs redirect for github spaces
+hydra-docs redirect for github pages
